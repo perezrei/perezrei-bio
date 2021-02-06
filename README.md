@@ -3,10 +3,9 @@
 
 ### I am Venezuelan, I arrived in Belgium 16 months ago and I'm living in Mouscron, Wallonie. 
 ****
-##### I am a Senior Marketing Bachelor and in the last 15 years I have worked in the area of printed advertising and lately in digital advertising. I have always liked technology. I have experience in creating websites through graphic design but not coding :keyboard:.
-
+#### I am a Bachelor in Marketing and in the last 15 years I have worked in the area of printed advertising and lately in digital advertising. I have always liked technology. I have experience in creating websites through graphic design but not coding :keyboard:.
+****
 ### I am:
-
 * :monocle_face:    Curious
 * :boom:    Proactive
 * :raised_hand:    Collaborative
@@ -14,9 +13,9 @@
 * :purple_heart:    Reliable
 
 ### I speak:
-* Spanish
-* English
-* French
+1. Spanish
+2. English
+3. French
 
 ### I'm really enjoying this new experience in HackYourFutureBE
 ****
